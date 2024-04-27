@@ -1,9 +1,8 @@
 {
     "name": "@misagamingvn/hello-worlds",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "hello worlds",
     "main": "index.js",
-    "repository": "https://github.com/misagaming1437/hello-worlds.git",
     "author": "misa",
     "license": "MIT",
     "workspaces": [
@@ -17,9 +16,10 @@
         "POW"
     ],
     "bugs": {
-        "url": "https://github.com/misagaming1437/hello-worlds/issues"
+        "url": "https://github.com/misagaming1437/teapro_helloworld/issues"
     },
-    "homepage": "https://github.com/misagaming1437/hello-worlds#readme",
+    "repository": "https://github.com/misagaming1437/teapro_helloworld",
+    "homepage": "https://github.com/misagaming1437/teapro_helloworld#readme",
     "dependencies": {
         "cowsay": "1.5.0",
         "hello-armadillo": "^1.0.0",
